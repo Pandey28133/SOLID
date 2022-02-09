@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjectionUI", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionLibrary", "DependencyInjectionLibrary\DependencyInjectionLibrary.csproj", "{17BE2750-E9ED-4A50-8666-15F2F7EA0E39}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependency Injection", "Dependency Injection", "{EA726842-FE42-42F1-BA9A-D087A65D3FB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A31A39A8-8376-4595-8ABA-FBEEAB9D7A91} = {EA726842-FE42-42F1-BA9A-D087A65D3FB9}
+		{17BE2750-E9ED-4A50-8666-15F2F7EA0E39} = {EA726842-FE42-42F1-BA9A-D087A65D3FB9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9032FA95-C54C-4B12-9F9F-3249A9DF5CAD}
