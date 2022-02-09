@@ -1,0 +1,5 @@
+E:\Work\Learning\DotNetCore\SOLID\DependencyInjectionLibrary\bin\Debug\DependencyInjectionLibrary.dll
+E:\Work\Learning\DotNetCore\SOLID\DependencyInjectionLibrary\bin\Debug\DependencyInjectionLibrary.pdb
+E:\Work\Learning\DotNetCore\SOLID\DependencyInjectionLibrary\obj\Debug\DependencyInjectionLibrary.csproj.CoreCompileInputs.cache
+E:\Work\Learning\DotNetCore\SOLID\DependencyInjectionLibrary\obj\Debug\DependencyInjectionLibrary.dll
+E:\Work\Learning\DotNetCore\SOLID\DependencyInjectionLibrary\obj\Debug\DependencyInjectionLibrary.pdb
