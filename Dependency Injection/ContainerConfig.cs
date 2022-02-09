@@ -15,9 +15,10 @@ namespace Dependency_Injection
         {
             var builder = new ContainerBuilder();
 
+            // Regirster dependecy of one class console app
             builder.RegisterType<UIApllication>().As<IUIApllication>();
 
-            // Regirster one class from Library
+            // Regirster dependecy of one class from DLLs Library
             builder.RegisterType<BusinessLogic>().As<IBusinessLogic>();
 
             builder.RegisterType<Logger>().As<ILogger>();
